@@ -1,2 +1,2 @@
 # front-end-projects
-pratice project using html,css
+pratice project using HTML,CSS
